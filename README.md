@@ -1,4 +1,4 @@
-Özel MNA Devre Simülatörü ve Görselleştirici
+Özel Devre Simülatörü ve Görselleştirici
 
 Bu proje, tamamen sıfırdan C++ ile geliştirilmiş harici kütüphanesiz bir devre simülasyon motorudur. Düğüm voltajlarını sıfırdan yazılan Gauss Eliminasyon matris çözücüsü ile hesaplar ve transient (geçici hal) tepkilerini Python ile görselleştirir.
 
